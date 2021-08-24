@@ -8,29 +8,37 @@
 🥅 2020 Goals: Contribute more to Open Source projects
 
 
-### Languages and Tools:
+### Programming Languages:
 
+C++
 
-Visual Studio Code
-
-Android Studio Code
+C#
 
 JAVA
+
+C
+
+### Platforms:
+
+Visual Studio 
+
+Android Studio
+
+### Tools :
+
+ASP.NET MVC
+
+Entity Framework
+
+Android
 
 HTML5
 
 CSS3
 
-Javascript
-
 SQL
 
-Git
 
-GitHub
+⚡ Coding
 
-
-
-⚡ Github Stats
-
-⚡Most Used Languages
+⚡ Application Development
