@@ -10,34 +10,15 @@
 
 ### Programming Languages:
 
-C++
+C++ | C# | JAVA | C
 
-C#
+### Platforms Used:
 
-JAVA
-
-C
-
-### Platforms:
-
-Visual Studio 
-
-Android Studio
+Visual Studio | Android Studio 
 
 ### Tools :
 
-ASP.NET MVC
-
-Entity Framework
-
-Android
-
-HTML5
-
-CSS3
-
-SQL
-
+ASP.NET MVC | Entity Framework | Android | HTML5 | CSS3 | SQL
 
 ⚡ Coding
 
