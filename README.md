@@ -7,7 +7,6 @@
 
 🥅 2020 Goals: Contribute more to Open Source projects
 
-
 ### Programming Languages :
 
 C++ | C# | JAVA | C
